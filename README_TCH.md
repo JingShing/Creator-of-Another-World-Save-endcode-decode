@@ -5,7 +5,7 @@
 # 更新
 現在可以使用圖形化介面來使用！
 
-可以在 Latest Release 中取得 exe 檔。
+可以在 [Latest Release](https://github.com/JingShing/Creator-of-Another-World-Save-endcode-decode/releases) 中取得 exe 檔(透過解壓縮 zip)。
 
 ![gui](image/gui.png)
 
