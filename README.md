@@ -5,6 +5,8 @@ A save encoder and decoder of Creator of Another World.
 # Update
 Now it is pack into gui.
 
+You can get it on latest release!
+
 ![gui](image/gui.png)
 
 # How to use
