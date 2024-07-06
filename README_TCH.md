@@ -43,13 +43,7 @@
 # 研究中...
 ![devtool](image/1.png)
 
-# To-Do
-- [ ] Make a tutorial
-- [ ] Make it easy to use
-- [ ] Pack it to exe
-
-
 # 待做
-- [ ] 製作教學
-- [ ] 讓它更好使用
-- [ ] 打包成 exe
+- [X] 製作教學
+- [X] 讓它更好使用
+- [X] 打包成 exe
